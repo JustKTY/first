@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ![Image](https://pic.qqtn.com/up/2019-10/15711174413539594.jpg)
 
 ### A beautiful photo of IU
-![iu](iu1.jpg)
+![iu](../master/iu1.jpg)
 
 
 ### Markdown
