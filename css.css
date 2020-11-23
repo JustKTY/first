@@ -1,0 +1,121 @@
+body{
+    color: #333;
+    background: #cec6c6
+}
+.clearfix::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.main{
+    line-height: 1.5;
+    
+}
+
+.main .nav{
+    height: 60px;
+    background-color: #47464a;
+    color: #999;
+    font-size: 16px;
+    text-align: center;
+    line-height: 60px;
+}
+
+.main .nav a{
+    margin: 0 20px;
+}
+
+
+
+.main .nav a:hover{
+    color: #ef4238;
+}
+
+.main .nav a.select{
+    color: #008c8c;
+}
+
+.main .container{
+    width: 1120px;
+    margin: 0 auto
+}
+
+.main .container .choose-area{
+    border: 1px solid #e5e5e5;
+    margin: 40px 0;
+    font-size: 14px;
+    line-height: 30px;
+    padding: 0 30px;
+}
+
+.main .container .choose-area .choose-item{
+    margin: 1em 0;
+    border-bottom: 1px dotted #e5e5e5;
+}
+
+.main .container .choose-area .choose-item.no-line{
+    border: none;
+}
+
+.main .container .choose-area .choose-item .left{
+    float: left;
+    width: 60px;
+    text-align: right;
+    color: #999;
+}
+
+.main .container .choose-area .choose-item .right{
+    float: left;
+    width: 1010px;
+}
+
+.main .container .choose-area .choose-item .right li{
+    float: left;
+    margin: 0 9px;
+    padding: 0 6px;
+}
+
+.main .container .choose-area .choose-item .right li:hover{
+    color: #ef4238;
+}
+
+.main .container .choose-area .choose-item .right li.select{
+    background: #ef4238;
+    color: #fff;
+    border-radius: 15px;
+}
+
+.main .container .movies .moive-item{
+    float: left;
+    width: 160px;
+    margin: 10px 32px 10px 0;
+    text-align: center;
+    color: #ee0f9e;
+    font-weight: bold;
+}
+
+.main .container .movies .moive-item:nth-child(6n){
+    margin-right: 0;
+}
+
+.main .container .movies .moive-item .poster img{
+    height: 220px;
+}
+
+.main .container .movies .moive-item .name{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.main .container .movies .moive-item .score{
+    color: #ffb400;
+    line-height: 1.5;
+    font-style: italic;
+}
+
+.main .container .movies .moive-item .score::first-letter{
+    font-size: 1.5em;
+}
+

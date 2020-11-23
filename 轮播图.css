@@ -1,0 +1,92 @@
+.banner {
+    width: 350px;
+    height: 580px;
+    background: lightblue;
+    margin: 1em auto;
+    overflow: hidden;
+    position: relative;
+}
+
+.banner .imgs {
+    width: 1750px;
+    height: 580px;
+}
+
+.banner .imgs img {
+    width: 350px;
+    height: 580px;
+}
+
+.banner .imgs a {
+    float: left;
+}
+
+.banner .left, 
+.banner .right {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 50px;
+    height: 50px;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    font-size: 3em;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    border-radius: 50%;
+    line-height: 50px;
+    cursor: pointer;
+}
+
+.banner .left:hover,
+.banner .right:hover {
+    background: white;
+    color: red;
+}
+
+.banner .left{
+    left: 5px;
+}
+
+.banner .right{
+    right: -290px;
+}
+
+.banner .modal{
+    width: 100%;
+    height: 40px;
+    background: rgba(0,0,0, 0.4);
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    color: white;
+    line-height: 40px;
+    padding: 0 20px;
+    box-sizing: border-box;
+}
+
+.banner .modal .tittle {
+    float: left;
+    font-weight: bold;
+}
+
+.banner .modal .dots {
+    float: right;
+}
+
+.banner .modal .dots li {
+    width: 8px;
+    height: 8px;
+    background: #ccc;
+    display: inline-block;
+    margin: 0 2px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.banner .modal .dots li:hover {
+    background: #369;
+}
+
