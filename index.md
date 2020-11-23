@@ -5,10 +5,10 @@ You can use the [editor on GitHub](https://github.com/JustKTY/first/edit/gh-page
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### A beautiful photo of IU
-![Image](https://image.baidu.com/search/detail?ct=503316480&z=undefined&tn=baiduimagedetail&ipn=d&word=iu%E5%9B%BE%E7%89%87&step_word=&ie=utf-8&in=&cl=2&lm=-1&st=undefined&hd=undefined&latest=undefined&copyright=undefined&cs=311027801,3798835252&os=3373053144,2569864221&simid=0,0&pn=28&rn=1&di=187330&ln=30&fr=&fmq=1606129175261_R&fm=&ic=undefined&s=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&is=0,0&istype=0&ist=&jit=&bdtype=0&spn=0&pi=0&gsm=0&hs=2&objurl=http%3A%2F%2Fn.sinaimg.cn%2Fsinakd20200515ac%2F339%2Fw622h517%2F20200515%2Faa90-itriats4756265.jpg&rpstart=0&rpnum=0&adpicid=0&force=undefined)
+![Image](https://image.baidu.com/search/detail?ct=503316480&z=undefined&tn=baiduimagedetail&ipn=d&word=iu%E7%B4%AB%E8%89%B2%E5%A4%B4%E5%8F%91&step_word=&ie=utf-8&in=&cl=2&lm=-1&st=-1&hd=undefined&latest=undefined&copyright=undefined&cs=4189129729,299661873&os=2662011074,1462741771&simid=0,0&pn=4&rn=1&di=18940&ln=116&fr=&fmq=1606131988813_R&fm=rs6&ic=undefined&s=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&is=2662011074,1462741771&istype=0&ist=&jit=&bdtype=10&spn=0&pi=0&gsm=0&hs=2&oriquery=iu%E5%9B%BE%E7%89%87&objurl=http%3A%2F%2Ft7.baidu.com%2Fit%2Fu%3D1181967173%2C3931981842%26fm%3D193&rpstart=0&rpnum=0&adpicid=0&force=undefined)
 
 ### A beautiful photo of IU
-![iu](https://github.com/JustKTY/first/blob/master/iu1.jpg)
+![iu](iu1.jpg)
 
 
 ### Markdown
